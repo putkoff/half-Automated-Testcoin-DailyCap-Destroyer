@@ -1,0 +1,10 @@
+[1;33;49mA new version is available, download it from https://www.vlycgtx.com/latest#linux.
+[0m
+[?25lSelecting a location in Montenegro for you...
+Connecting to Montenegro...Connecting to Montenegro...	1.0%Connecting to Montenegro...	15.0%Connecting to Montenegro...	37.5%Connecting to Montenegro...	75.0%Connecting to Montenegro...	85.0%Connecting to Montenegro...	100.0%[0;33;49m
+[0m[1;32;49mConnected to Montenegro
+[0m
+   - To check your connection status, type 'expressvpn status'.
+   - If your VPN connection unexpectedly drops, internet traffic will be blocked to protect your privacy.
+   - To disable Network Lock, disconnect ExpressVPN then type 'expressvpn preferences set network_lock off'.
+[?25h
